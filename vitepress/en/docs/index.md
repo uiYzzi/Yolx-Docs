@@ -4,46 +4,45 @@ titleTemplate: User Guide
 ---
 
 ## Introduction
-Yolx is a modern download tool developed with Flutter, powered by 'Aria 2' at its core. It supports various download methods such as direct links, magnet links, Thunder links, metalinks, and torrents. It aims to be a versatile download tool across all platforms. Currently, it supports the following platforms:
+Yolx is a modern download tool built around the core of "Aria 2" that supports various download methods including direct links, magnet links, Thunder links, metalinks, and torrents. It aims to be the ultimate all-in-one downloader for cross-platform usage. Currently, it supports the following platforms:
 
 - **Windows**
 - **Linux**
 - **Android**
 
-Platforms to be supported in the future:
+Upcoming supported platforms:
 
-- **MacOS**
+- **Macos**
 - **iOS**
 - **Web**
 - **Docker**
 
 ## Key Features
 
-- Categorized storage
-- Automatic tracker list updates
-- Persistent storage of download history
-- Multi-language support
+- Classification Storage
+- Automatic Tracker List Updates
+- Persistent Storage of Download History
+- Multi-Language Support
 
 ## Why not...?
 
-Here, we compare Yolx with popular downloaders in the market to illustrate Gopeed's advantages.
+Here's a comparison with other popular downloaders in the market.
 
-| Feature        | Yolx | Gopeed | Motrix          | IDM             |
+| Feature     | Yolx | Gopeed | Motrix          | IDM             |
 | ----------- |  ------ | ------ | --------------- | --------------- |
 | HTTP        | ✔️     | ✔️     | ✔️              | ✔️              |
 | BitTorrent  | ✔️     | ✔️     | ✔️              | ❌              |
 | Magnet      | ✔️     | ✔️     | ✔️              | ❌              |
 | Thunder     | ✔️     | ❌     | ✔️              | ❌              |
-| Categorized storage      | ✔️     | ❌     | ❌              |  ✔️             |
-| Cross-platform support  | ❌ (macos and ios not supported yet)     | ✔️     | ❌ (only desktop platforms) | ❌ (only Windows) |
+| Classification Storage | ✔️     | ❌     | ❌              |  ✔️             |
+| Cross-Platform Support  | ❌ (Not available for macOS and iOS)   | ✔️     | ❌ (Desktop platforms only) | ❌ (Windows only) |
 | Free        | ✔️     | ✔️     | ✔️              | ❌              |
-| Open source        | ✔️     | ✔️     | ✔️              | ❌              |
+| Open Source | ✔️     | ✔️     | ✔️              | ❌              |
 | Non-Electron | ✔️     | ✔️     | ❌              | ✔️              |
 | Open API    | ✔️     | ✔️     | ✔️              | ❌              |
-| Extension support    | ❌     |✔️     | ❌              | ❌              |
+| Extension Support | ❌     |✔️     | ❌              | ❌              |
 
-
-## Acknowledgements
+## Acknowledgments
 
 - [LeanFlutter](https://github.com/leanflutter)
-- [Project Spark of Spark Plan](https://gitee.com/spark-store-project)
+- [Project Spark](https://gitee.com/spark-store-project)
