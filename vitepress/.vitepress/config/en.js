@@ -22,6 +22,7 @@ export const enConfig = {
         items: [
           { text: "Github Issues", link: "https://github.com/uiYzzi/Yolx/issues" },
           { text: "兔小槽", link: "https://txc.qq.com/products/639685" },
+          { text: "云湖交流群", link: "https://yhfx.jwznb.com/share?key=WjnMUAnzqU7y&ts=1710597691" },
         ],
       },
       { text: "Donate", link: "/en/donate" },
