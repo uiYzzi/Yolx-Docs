@@ -8,7 +8,7 @@ titleTemplate: 一款现代化下载工具
 hero:
   name: Yolx
   text: 一款现代化下载工具
-  tagline: 支持直链、磁力链接、迅雷链接、metalink和种子多种下载方式
+  tagline: 支持直链、磁力链接、迅雷链接、快车链接、QQ旋风链接、metalink和种子多种下载方式
   image: /logo/icon.svg
   actions:
     - theme: brand
@@ -20,7 +20,7 @@ hero:
 
 features:
   - title: 全能下载
-    details: Yolx 支持直链、磁力链接、迅雷链接、metalink和种子多种下载方式，做你的全能下载器。
+    details: Yolx 支持直链、磁力链接、迅雷链接、快车链接、QQ旋风链接、metalink和种子多种下载方式，做你的全能下载器。
   - title: 分类存放
     details: 你可以使用「分类存放」功能对不同类型的文件进行分门别类的存放，使下载目录更加优雅。
   - title: 节省时间

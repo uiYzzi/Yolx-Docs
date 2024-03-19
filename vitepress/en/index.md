@@ -7,7 +7,7 @@ titleTemplate: A Modern Download Tool
 hero:
   name: Yolx
   text: A Modern Download Tool
-  tagline: Supports direct links, magnet links, Thunder links, metalinks, and torrent files
+  tagline: Supports direct links, magnet links, Thunder links, Flashget links, QQDL links, metalinks, and torrent files
   image: /logo/icon.svg
   actions:
     - theme: brand
@@ -19,7 +19,7 @@ hero:
 
 features:
   - title: Versatile Downloads
-    details: Yolx supports various download methods including direct links, magnet links, Thunder links, metalinks, and torrents, making it your all-in-one downloader.
+    details: Yolx supports various download methods including direct links, magnet links, Thunder links, Flashget links, QQDL links, metalinks, and torrents, making it your all-in-one downloader.
   - title: Smart Organization
     details: Utilize the "Organize" feature to categorize different file types, creating a more elegant download directory.
   - title: Time Saving
